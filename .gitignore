@@ -1,0 +1,5 @@
+.env
+*__pycache__/
+vs.code
+db.sqlite3
+frontend/
